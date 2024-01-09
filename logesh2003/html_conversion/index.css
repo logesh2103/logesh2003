@@ -1,0 +1,1334 @@
+
+    
+body{
+    margin: 0;
+}
+
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+.logesh{
+    background-color:#0000ff8f;
+    /* width: 100%; */
+    /* position: fixed; */
+    left: 0px;
+    right: 0px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+padding-bottom: 25px;
+border: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: aliceblue;
+}
+
+
+
+
+.yello{
+    background-color: rgba(114, 153, 35, 0.767);
+    border-radius: 80px;
+    color: aliceblue;
+}
+.logesh .list a{
+    padding-left: 30px;
+padding-right: 30px;
+}
+.logesh img{
+    /* padding-left: 40px; */
+}
+.search-file{
+    padding: 0px;
+background-color: transparent;
+border: none;
+}
+    
+
+
+    
+.list{
+    display: flex;
+    padding: 20px 0px;
+    margin: 0px;
+    justify-content:start;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+}
+    
+
+.ajith{
+    display: flex;
+    padding: 10px 0px;
+    justify-content: space-around;
+    color: aliceblue;
+   
+}
+
+
+.color{
+    /* background-image:linear-gradient(#00ffd4a1,#0000ff7d), url(./image/banner_image.jpg); */
+      background-image: url(./image/banner_image.jpg);
+
+    background-position: center;
+    padding: 30px 40px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 250px;
+    padding-bottom:250px;
+    font-weight: 400;
+    color: aliceblue;
+
+
+
+
+}
+.back{
+    padding: 20px;
+    background-color: yellow;
+    border-radius: 80px;
+    color: aliceblue;
+}
+    
+
+.dog{
+    /* padding: 35px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font: bold;
+    text-align: center;
+    background-color: blue;
+    color: aliceblue;  
+}
+
+
+
+
+.shop{
+    font: bold;
+        /* padding: 35px; */
+
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+       
+        text-align: center;
+        background-color:blue;
+        color: aliceblue;
+}
+.help{
+    font: bold;
+        /* padding: 35px; */
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        
+        
+        text-align: center;
+        background-color:blue;
+        color: aliceblue;
+}
+.box{
+    display: flex;
+    
+   
+   
+    
+}
+
+.lizza{
+    background-image:linear-gradient(#d0ff00c2,#ebff00ab), url(./image/pet_care_banner.png.jpg);
+    
+    width: 100%;
+    padding-top: 5%;
+    font-size: xx-large;
+    padding-bottom: 200px;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:yellow;
+
+    
+}
+.size{
+    font-size: xx-large;
+}
+
+
+
+
+.pet{
+    display: flex;
+    justify-content:space-between;
+   padding-top: 100px;
+   padding-bottom: 100px;
+   font-size: 30px;
+   text-align: center;
+   padding-left: 50px;
+   padding-right: 50px;
+   
+  
+    
+    
+}
+
+
+.care{
+   
+    
+    border: 10px solid red;
+    border-radius: 50%;
+   width: 250px;
+   height: 250px;
+   padding: 50px;
+    
+    
+}
+   
+    
+   
+    
+
+
+
+.outlet{
+     
+    border: 10px solid red;
+    border-radius: 50%;
+   width: 250px;
+   height: 250px;
+   padding: 50px;
+
+   
+}
+
+.helping{
+   
+   
+    border: 10px solid red;
+    border-radius: 50%;
+   width: 250px;
+   height: 250px;
+   padding: 50px;
+}
+
+.dog-check{
+    background-color: blue;
+    
+    padding-bottom: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    padding-top:5%;
+}
+.center{
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 30px;
+    
+    /* padding-right: 10px;
+    padding-left: 10px; */
+}
+.dog-check .big{
+    font-size:x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 25%;
+    padding-left: 30%;
+    text-align: center;
+    
+}
+.order-now{
+    background-color: yellow;
+    
+    padding: 10px;
+  
+    border-radius: 50px;
+    
+}
+.img{
+/*     
+   padding-left: 168px;
+   padding-right: 10px; */
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 33%;
+
+}
+.dog-check .center{
+    padding-top:100px;
+    padding-bottom: 50px;
+    
+    /* padding-left: 100px;  
+     */
+
+}
+
+
+.rani{
+    
+    background-color: coral;
+    display: flex;
+    text-align: center;
+    /* padding-left: 150px; */
+    padding-bottom: 5%;
+    padding-top:5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    
+    
+    
+    
+    
+}
+
+
+.sekar{
+   padding-top: 5%;
+   padding-bottom: 5%;
+   padding-right: 33%;
+
+   /* padding-left: 10px;
+   padding-right: 10px; */
+    
+}
+.ali{
+    
+    /* text-align: center; */
+    /* align-items: center;
+    justify-content: center; */
+    padding-top: 10%;
+    padding-bottom: 30px;
+    /* padding-left: 20%; */
+  
+    
+    
+}
+
+.button{
+    
+    background-color: yellow;
+    
+    padding: 10px;
+  
+    border-radius: 50px;
+    
+}
+
+
+.main-body{
+    display: flex;
+}
+.main-body >div{
+    border: 5px solid white;
+    border-radius: 1px;
+    color: blue;
+    background-color:white;
+    text-align: center;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+    margin: 10px;
+    
+    
+    
+}
+.parthi{
+    background-color: blueviolet;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.transform{
+    background-color: yellow;
+    
+    padding: 10px;
+  
+    border-radius: 50px;
+}
+
+.pricing{
+    font-size: 200%;
+    text-align: center;
+    margin: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
+
+.super-star{
+    background-color: lightblue;
+    padding-bottom: 150px;
+    flex-wrap: wrap;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+.varma{
+    text-align: center;
+    font-size: xx-large;
+   
+}
+.star{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top:100px;
+    padding-left: 10px;
+    padding-right: 10px;
+   
+    
+    
+}
+
+
+
+.white-paw{
+    padding-right: 50%;
+    align-items: center; 
+    justify-content: center;   
+    display: flex;
+   padding: 20px;
+   width: 50%;
+   
+   padding-left: 10px;
+   padding-right: 10px;
+
+
+    
+
+}
+
+
+
+.janni{
+    padding-bottom: 25%;
+    background-image:linear-gradient(#ebff00,#ffff005e), url(./image/dr_Jenny.jpg );
+    text-align: center;
+    padding-top: 30%;
+   padding-left: 10px;
+   padding-right: 10px;
+    
+}
+.janu{
+    font-size: x-large;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+    
+
+.aval{
+
+    padding-left: 10px;
+    padding-right: 350px; 
+font-style: none;
+
+padding-top: 50px;
+/* display: flex; */
+background-color: rebeccapurple;
+
+
+}
+
+.ak{
+    display: flex;
+    background-color: rebeccapurple;
+    padding-bottom: 20px;
+   
+    padding-left: 10px;
+    padding-right: 10px;
+  
+    
+    
+}
+.fotter ul{
+   list-style-type: none;
+   padding: 10px;
+   font-weight: bolder;
+   padding-right: 20px;
+   
+  
+  
+   
+    
+}
+.fotter{
+    padding-right: 40px;
+    padding-left: 40px;
+   
+
+}
+
+
+
+/* i phone 12  pro start */
+
+
+@media(max-width:767px){
+
+    /* body{
+        margin: 0;
+    } */
+
+    .logesh img{
+        padding: 0px;
+    }
+
+.logesh{
+    flex-direction: column;
+    align-items: center;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   padding-left: 5px;
+   padding-right: 5px;
+  
+}
+
+.ajith{
+    flex-direction: column;
+    padding: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+   
+   
+}
+   .list {
+     padding: 0px;
+     margin: 0px;
+     margin-top: 15px;
+   }
+   .list li{
+       padding: 0px;
+   }
+   .logesh .list a{
+    padding-left: 0px;
+    padding-right: 5px;
+   }
+
+   .search-file{
+       display: none;
+   }
+   .back{
+    font-size:20px;
+    background-color: yellow;
+    padding: 20px;
+    
+
+   }
+   .color{
+       padding-left: 5px;
+       padding-right: 5px;
+    
+   }
+   .color h1{
+    padding-left: 5px;
+    padding-right: 5px; 
+   }
+   .color p{
+    padding-left: 5px;
+    padding-right: 5px;
+   }
+
+.box{
+    flex-direction: column;
+    padding: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.dog{
+    
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.dog h1{
+    margin: 0px;
+    border: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+.dog p{
+    margin: 0px;
+    border: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+.shop{
+    
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.shop h1{
+    margin: 0px;
+    border: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+.shop p{
+    margin: 0px;
+    border: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+.help{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.help h1{
+    margin: 0px;
+    border: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+.help p{
+    margin: 0px;
+    border: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+.secation-3{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.lizza{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.pet{
+    flex-direction: column;
+    align-items: center;
+    padding-top: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.care{
+    margin: 50px;
+    justify-content: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.care .storng{
+    margin: 0px;
+    border: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+.care p{
+    margin: 0px;
+    border: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 10px;
+}
+.helping{
+    margin: 50px;
+    justify-content: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.outlet{
+    margin: 50px;
+    justify-content: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.dog-check{
+    flex-direction: column;
+    align-items: center;
+    /* padding-right: 50px; */
+    padding: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+   
+}
+.dog-check .center{
+    padding: 0px;
+    padding-left: 5px;
+    padding-right: 5px; 
+    padding-bottom: 50px;
+    
+    
+}
+.img{
+    padding: 0px;
+}
+
+.dog-check img{
+    width: 100%;
+    padding: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.rani{
+    flex-direction: column;
+    text-align: center;
+    /* padding-left: 10px; */
+    padding-bottom: 30px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+ .sekar{
+    width: 100%;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.ali{
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.parthi{
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+
+.main-body{
+    flex-direction: column;
+    width: 100%;
+   
+
+}
+.main-body >div{
+    border: 0px;
+    margin: 0px;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+}
+
+
+.star{
+    flex-direction: column;
+    padding: 0px;
+   
+    align-items: center;
+    width: 100%;
+}
+.varma h1{
+    margin: 0px;
+    border: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.varma p{
+    margin: 0px;
+    border: 0px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.star{
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+.white-paw{
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+.white-paw >img{
+    padding-left: 5px;
+    padding-right: 5px; 
+    margin: 0px;
+    border: 0px;
+}
+
+.hukum p {
+    margin: 0px;
+   
+}
+.hukum h1{
+    margin: 0px;
+    
+
+}
+
+
+.ak{
+    flex-direction: column;
+ /* align-items: center; */
+ padding-left: 5px;
+ padding-right: 5px;
+    
+}
+.aval{
+    padding-right: 5px;
+    padding-left: 5px
+}
+.fotter{
+    padding: 0px;
+   
+    padding-right: 5px;
+    padding-left: 5px
+}
+.fotter ul{
+    padding: 0px;
+    margin: 0px;
+    padding-right: 5px;
+    padding-left: 5px
+}
+.fotter li a{
+    padding: 0px;
+    padding-right: 5px;
+    padding-left: 5px
+}
+
+
+}
+/* i phone 12 pro end */
+
+                     
+   
+
+
+             /* ***********      laptop  ********* */
+
+
+
+
+
+@media(min-width:768px) {
+    
+    
+body{
+    margin: 0;
+}
+
+
+*{
+    box-sizing: border-box;
+}
+
+
+
+.logesh{
+    background-color:#0000ff8f;
+    /* width: 100%; */
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-right: 10px;
+    padding-left: 10px;
+padding-bottom: 25px;
+border: 30px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    color: aliceblue;
+}
+
+
+
+
+.yello{
+    background-color: rgba(114, 153, 35, 0.767);
+    border-radius: 80px;
+    color: aliceblue;
+}
+.logesh .list a{
+    padding-left: 30px;
+padding-right: 30px;
+}
+.logesh img{
+    /* padding-left: 40px; */
+}
+.search-file{
+    padding: 0px;
+background-color: transparent;
+border: none;
+}
+    
+
+
+    
+.list{
+    display: flex;
+    padding: 20px 0px;
+    margin: 0px;
+    justify-content:start;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+    color: aliceblue;
+}
+    
+
+.ajith{
+    display: flex;
+    padding: 10px 0px;
+    justify-content: space-around;
+    color: aliceblue;
+   
+}
+
+
+.color{
+    background-image:linear-gradient(#00ffd4a1,#0000ff7d), url(./image/banner_image.jpg);
+    background-position: center;
+    padding: 30px 40px;
+    justify-content: center;
+    text-align: center;
+    padding-top: 250px;
+    padding-bottom:250px;
+    font-weight: 400;
+    color: aliceblue;
+
+
+
+
+}
+.back{
+    padding: 20px;
+    background-color: yellow;
+    border-radius: 80px;
+    color: aliceblue;
+}
+    
+
+.dog{
+    /* padding: 35px; */
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    font: bold;
+    text-align: center;
+    background-color: blue;
+    color: aliceblue;  
+}
+
+
+
+
+.shop{
+    font: bold;
+        /* padding: 35px; */
+
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+       
+        text-align: center;
+        background-color:blue;
+        color: aliceblue;
+}
+.help{
+    font: bold;
+        /* padding: 35px; */
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        
+        
+        text-align: center;
+        background-color:blue;
+        color: aliceblue;
+}
+.box{
+    display: flex;
+    
+   
+   
+    
+}
+
+.lizza{
+    background-image:linear-gradient(#d0ff00c2,#ebff00ab), url(./image/pet_care_banner.png.jpg);
+    width: 100%;
+    padding-top: 5%;
+    font-size: xx-large;
+    padding-bottom: 200px;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:yellow;
+
+    
+}
+.size{
+    font-size: xx-large;
+}
+
+
+
+
+.pet{
+    display: flex;
+    justify-content:space-between;
+   padding-top: 100px;
+   padding-bottom: 100px;
+   font-size: 30px;
+   text-align: center;
+   padding-left: 50px;
+   padding-right: 50px;
+   
+  
+    
+    
+}
+
+
+.care{
+   
+    
+    border: 10px solid red;
+    border-radius: 50%;
+   width: 250px;
+   height: 250px;
+   padding: 50px;
+    
+    
+}
+   
+    
+   
+    
+
+
+
+.outlet{
+     
+    border: 10px solid red;
+    border-radius: 50%;
+   width: 250px;
+   height: 250px;
+   padding: 50px;
+
+   
+}
+
+.helping{
+   
+   
+    border: 10px solid red;
+    border-radius: 50%;
+   width: 250px;
+   height: 250px;
+   padding: 50px;
+}
+
+.dog-check{
+    background-color: blue;
+    
+    padding-bottom: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    display: flex;
+    padding-top:5%;
+}
+.center{
+    text-align: center;
+    justify-content: center;
+    padding-bottom: 30px;
+    
+    /* padding-right: 10px;
+    padding-left: 10px; */
+}
+.dog-check .big{
+    font-size:x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top: 25%;
+    padding-left: 30%;
+    text-align: center;
+    
+}
+.order-now{
+    background-color: yellow;
+    
+    padding: 10px;
+  
+    border-radius: 50px;
+    
+}
+.img{
+/*     
+   padding-left: 168px;
+   padding-right: 10px; */
+
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 33%;
+
+}
+.dog-check .center{
+    padding-top:100px;
+    padding-bottom: 50px;
+    
+    /* padding-left: 100px;  
+     */
+
+}
+
+
+.rani{
+    
+    background-color: coral;
+    display: flex;
+    text-align: center;
+    /* padding-left: 150px; */
+    padding-bottom: 5%;
+    padding-top:5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    
+    
+    
+    
+    
+}
+
+
+.sekar{
+   padding-top: 5%;
+   padding-bottom: 5%;
+   padding-right: 33%;
+
+   /* padding-left: 10px;
+   padding-right: 10px; */
+    
+}
+.ali{
+    
+    /* text-align: center; */
+    /* align-items: center;
+    justify-content: center; */
+    padding-top: 10%;
+    padding-bottom: 30px;
+    /* padding-left: 20%; */
+  
+    
+    
+}
+
+.button{
+    
+    background-color: yellow;
+    
+    padding: 10px;
+  
+    border-radius: 50px;
+    
+}
+
+
+.main-body{
+    display: flex;
+}
+.main-body >div{
+    border: 5px solid white;
+    border-radius: 1px;
+    color: blue;
+    background-color:white;
+    text-align: center;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-bottom: 10px;
+    margin: 10px;
+    
+    
+    
+}
+.parthi{
+    background-color: blueviolet;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+}
+.transform{
+    background-color: yellow;
+    
+    padding: 10px;
+  
+    border-radius: 50px;
+}
+
+.pricing{
+    font-size: 200%;
+    text-align: center;
+    margin: 0px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+
+}
+
+.super-star{
+    background-color: lightblue;
+    padding-bottom: 150px;
+    flex-wrap: wrap;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+.varma{
+    text-align: center;
+    font-size: xx-large;
+   
+}
+.star{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top:100px;
+    padding-left: 10px;
+    padding-right: 10px;
+   
+    
+    
+}
+
+
+
+.white-paw{
+    padding-right: 50%;
+    align-items: center; 
+    justify-content: center;   
+    display: flex;
+   padding: 20px;
+   width: 50%;
+   
+   padding-left: 10px;
+   padding-right: 10px;
+
+
+    
+
+}
+
+
+
+.janni{
+    padding-bottom: 25%;
+    background-image:linear-gradient(#ebff00,#ffff005e), url(./image/dr_Jenny.jpg );
+    text-align: center;
+    padding-top: 30%;
+   padding-left: 10px;
+   padding-right: 10px;
+    
+}
+.janu{
+    font-size: x-large;
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+    
+
+.aval{
+
+    padding-left: 10px;
+    padding-right: 350px; 
+font-style: none;
+
+padding-top: 50px;
+/* display: flex; */
+background-color: rebeccapurple;
+
+
+}
+
+.ak{
+    display: flex;
+    background-color: rebeccapurple;
+    padding-bottom: 20px;
+   
+    padding-left: 10px;
+    padding-right: 10px;
+  
+    
+    
+}
+.fotter ul{
+   list-style-type: none;
+   padding: 10px;
+   font-weight: bolder;
+   padding-right: 20px;
+   
+  
+  
+   
+    
+}
+.fotter{
+    padding-right: 40px;
+    padding-left: 40px;
+   
+
+}
+
+        
+
+}            
+
+/* //////////////////laptop view end ///////////////////////////*/
+
+
+
+
+
+
+/* **********************tab view start *************************************/
+
+
+@media(min-width:787px) and (max-width:991px){
+
+.color{
+    width: 122%;
+}
+.lizza{
+    width: 122%;
+}
+.dog-check{
+     width: 122%;
+}
+.rani{
+    width: 122%;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.parthi{
+    width: 122%;
+}
+.aval{
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+
+    
+}

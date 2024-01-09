@@ -1,0 +1,19 @@
+@media(max-width:767px){
+
+body{
+    background-color: black;
+}
+
+.container{
+    flex-direction: column;
+    text-align: center;
+    padding-right:10px;
+}
+
+
+.container h1{
+    color: yellow;
+    text-align: center;
+}
+
+}
